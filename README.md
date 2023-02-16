@@ -39,8 +39,8 @@ const aboutMe = () => {
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=JhonattanSSG01&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonattanSSG01&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=JhonattanSSG01&theme=react&hide_border=false&include_all_commits=false&count_private=false" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonattanSSG01&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 
 
 # 🤝🏻 Connect with Me
