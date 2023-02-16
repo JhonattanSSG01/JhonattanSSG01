@@ -10,7 +10,7 @@
 
 # 💫 About Me:
 <p align="left">
-Me considero una persona resiliente y proactiva con excelente actitud frente a los desafíos, actualmente soy desarrollador web full stack con manejo adecuado en lenguajes de programación HTML5, CSS3 y JS junto con librerías como React para la construcción de aplicaciones web intuitivas mediante la metodología ágil - SRUM. Me apasiona mucho la tecnología y temas relacionados con la creación de cosas mediante la creatividad.<br>
+Me considero una persona resiliente y proactiva con excelente actitud frente a los desafíos, me apasiona mucho la tecnología y temas relacionados con la creación de cosas mediante la creatividad.<br>
 </p>
 
 ```javascript
@@ -37,19 +37,25 @@ const aboutMe = () => {
 # 💻 Tech Stack:
 >![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
+<br/>
+
 # 📊 GitHub Stats:
 
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=JhonattanSSG01&theme=react&hide_border=false&include_all_commits=false&count_private=false" align="left" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonattanSSG01&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-
+</div>
+<br/>
 
 # 🤝🏻 Connect with Me
 
-<p align="center">
-<a href="https://my-portafolio-jssg.netlify.app" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.JhonattanSSG01.com.np-white?style=flat&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/jhonattanssg" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@JhonattanSSG01-white?style=flat&logo=linkedin"></a>
+<div align="center">
+<a href="https://my-portafolio-jssg.netlify.app" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-https%3A%2F%2Fmy--portafolio--jssg.netlify.app-brightgreen"></a>
+<a href="https://www.linkedin.com/in/jhonattanssg" target="_blank"><img alt="Website" src="https://img.shields.io/badge/-JhonattanSSG01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/JhonattanSSG01/"></a>
+ <a href="https://github.com/JhonattanSSG01" target="_blank"><img alt="Website" src="https://img.shields.io/github/followers/JhonattanSSG01?label=follow&style=social"></a>
 <a href="mailto:jhonattansaavedra01@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jhonattansaavedra01@gmail.com-white?style=flat&logo=gmail"></a>
-</p>
+</div>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JhonattanSSG01&icon=0&color=0)](https://visitcount.itsvg.in)
