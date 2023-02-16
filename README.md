@@ -1,9 +1,11 @@
 ### Hola Mundo, soy Jhonattan 👋👦💻💻
 
 <p align="center">
+ <section align='left'>
  <img width="200px" src="https://user-images.githubusercontent.com/80645321/219274063-af77ac0e-ad26-4634-b750-fdd256270610.png" align="center" alt="Github Readme Stats" />
 <img width="200px" src="https://user-images.githubusercontent.com/80645321/219274357-5efa3a45-c14d-4fc6-8a33-8cf29321165c.png" align="center" alt="Github Readme Stats" />
- <h2 align="center">Profile</h2>
+  <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
+  </section>
 </p>
 
 # 💫 About Me:
