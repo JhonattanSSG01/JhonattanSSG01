@@ -16,7 +16,7 @@ Me considero una persona resiliente y proactiva con excelente actitud frente a l
 ```javascript
 const aboutMe = () => {
    developer: "Jhonattan Saavedra",
-   code: [Javascript, HTML5, CSS3, Java, PHP],
+   code: [Javascript, HTML5, CSS3],
    technologies: {
       frontEnd: {
          js: ["React"],
@@ -26,7 +26,7 @@ const aboutMe = () => {
          js: ["Node", "Express"],
       },
       databases: ["MongoDB", "MySQL"],
-      Tools: ["Figma", "Trello", "SCRUM"]
+      Tools: ["Figma", "Trello", "SCRUM", "WordPress"]
    },
    currentOccupation: ["Actualmente estudiando y practicando, pero me salí al mundo laboral"],
    challenge: "Me apasiona mucho el ser capaz de contruir cosas mediante la creatividad.",
